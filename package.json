@@ -1,0 +1,13 @@
+{
+  "name": "versionsverwaltungssystem",
+  "version": "1.0.0",
+  "description": "Ein Tool zur Verwaltung von Projektversionen und zur Verbesserung der Zusammenarbeit.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'Keine Tests vorhanden'"
+  },
+  "author": "Ihr Name",
+  "license": "MIT",
+  "dependencies": {}
+}
