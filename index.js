@@ -13,3 +13,8 @@ function implementFunction() {
 function futureFunctionPlaceholder() {
     console.log('This function will be implemented later.');
 }
+
+// Function to log an action
+function logAction(action) {
+    console.log('Action performed: ' + action);
+}
