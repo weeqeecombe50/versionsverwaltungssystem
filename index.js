@@ -6,4 +6,5 @@ console.log('Willkommen zum Versionsverwaltungssystem (VVS)!');
 function implementFunction() {
     // TODO: Specify the details of the function implementation here
     // Function implementation goes here
+    console.log('Function is not implemented yet.');
 }
